@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_REST_Verify Email From List Of Comments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd96708c-eb75-4501-b402-55b3b3260ca4</testCaseGuid>
+</TestCaseEntity>
